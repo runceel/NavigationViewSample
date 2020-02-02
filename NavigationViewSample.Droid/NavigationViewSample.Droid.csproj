@@ -62,7 +62,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Uno.UI" Version="2.1.0-dev.971" />
+    <PackageReference Include="Uno.UI" Version="2.1.0-dev.976" />
     <PackageReference Include="Uno.UI.RemoteControl" Version="2.1.0-dev.951" Condition="'$(Configuration)'=='Debug'" />
     <PackageReference Include="Uno.UniversalImageLoader" Version="1.9.32" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="1.1.1" />
